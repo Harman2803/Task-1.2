@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Myself Harmanpreet
-=======
-Helloooo.....
->>>>>>> 39e7509f637787062382d758e4652e12941570fc
+My name is Harmanpreet 
